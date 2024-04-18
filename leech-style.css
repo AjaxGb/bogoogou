@@ -1,0 +1,131 @@
+body {
+	font: 16px Helvetica, sans-serif;
+	color: #B8B8B8;
+	background: #000000;
+}
+
+a { color: #0000FF; }
+
+a:visited { color: #B8B8B8; }
+
+#main {
+	background: #000000;
+	width: 920px;
+	padding: 10px;
+	margin: 0 auto;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+h2, h3 { 
+	font-size: 16px; 
+	}
+
+h1 { 
+	font-size: 40px; 
+	}
+
+h3 {
+	font-weight: normal;
+	
+}
+
+h4 { 
+	text-align: center;
+font-size: 30px; 
+}
+
+div{
+	display:block;
+	position: relative;
+}
+
+p{
+	display:block;
+	position: relative;
+}
+
+#footer {
+
+background: #131313; /*the colour of the button*/
+/*give the button curved corners, alter the size as required*/
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+/*style the text*/
+color:#B8B8B8;
+font-size:18px;
+width:920px;
+position:relative;
+ margin-left: auto ;
+  margin-right: auto ;
+  padding: 10px;
+  margin-top:10px;
+
+}
+	
+.dialog {
+background: #282828; /*the colour of the button*/
+/*give the button curved corners, alter the size as required*/
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+/*style the text*/
+color:#B8B8B8;
+font-size:18px;
+width:920px;
+position:relative;
+ margin-left: auto ;
+  margin-right: auto ;
+ margin-top: 10px;
+ margin-bottom:10px;
+ padding:10px;
+
+}
+	
+.dialog2 {
+/*the colour of the button*/
+/*give the button curved corners, alter the size as required*/
+
+/*style the text*/
+color:#B8B8B8;
+font-size:18px;
+width:920px;
+position:relative;
+ margin-left: auto ;
+  margin-right: auto ;
+ margin-top:10px;
+ margin-bottom:10px;
+ padding:10px;
+
+
+}
+
+.advimg {
+	display:block;
+margin-left: auto ;
+  margin-right: auto ;
+}
+
+.iconimg {
+	padding: 10px;
+	position:absolute;
+	width: 15%;
+	margin-left:0;
+
+}
+
+ .txt {
+	padding: 10px;
+	position:relative;
+	width: 80%;
+	margin-left:15%;
+	margin-top: 0%;
+
+
+}
+
+	
+	
